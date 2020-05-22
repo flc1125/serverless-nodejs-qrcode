@@ -4,7 +4,9 @@
 
 **本项目已迁移至：https://github.com/flc1125/serverless-example/tree/master/tencent-nodejs-qrcode**
 
-**本仓库不再为会**
+**本仓库不再维护**
+
+----
 
 ## 说明
 
