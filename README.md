@@ -1,5 +1,11 @@
 # serverless-nodejs-qrcode
 
+## 迁移说明
+
+**本项目已迁移至：https://github.com/flc1125/serverless-example/tree/master/tencent-nodejs-qrcode**
+
+**本仓库不再为会**
+
 ## 说明
 
 基于腾讯云的 serverless 搭建的二维码服务，语言：`nodejs`
